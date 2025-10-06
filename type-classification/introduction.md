@@ -1,0 +1,5 @@
+# Introduction
+
+As we are progressing in augmented reality, virtual reality space the complexity of information is increasing with the introduction of more features and functions. The existing typographic rules and structure of information in AR is not sufficient to solve for _new variables_ (mentioned in the reading experience section).
+
+Now the text is not just limited to static consumption, new challenges like movement, rotation, rendering of text (frame rate, resolution) are bringing up several issues like perspective distortion, distance reading, distortion of letter shapes etc. However, some of these challenges are not new at all, although the context has changed because of the three-dimensional medium. Example: learnings from highway signages typography can be applied to scenarios where you want to convey quick information to a user wearing AR glasses while walking on the road. In this case, directly translating the guidelines might not work perfectly because there are limitations of text rendering, the brightness of displays and so on. _And this is where the typography has to evolve and solve these novel challenges._
